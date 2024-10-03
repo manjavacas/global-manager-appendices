@@ -36,3 +36,7 @@ Global Software Development, Distributed Software Development, Project Managemen
   doi={10.1145/3592620}
 }
 ```
+
+## 🪙 Funding
+
+This work has been supported by the projects: OASSIS (PID2021-122554OB-C31, funded by MCIN/ AEI /10.13039/501100011033 / FEDER, EU); and EMMA (Evaluation and Improvement of the Environmental Sustainability of Applications), SBPLY/21/180501/000115, funded by the Consejería de Educación, Cultura y Deportes de la Junta de Comunidades de Castilla La Mancha and Fondo Europeo de Desarrollo Regional FEDER (Programa Operativo de Castilla-La Mancha 2021-2027). We would like to thank all the students and practitioners who took part in preparing the evaluation of Global Manager and all those involved in the evaluation of the game. Without their collaboration, this paper would not have been possible.
