@@ -1,3 +1,5 @@
+![DOI](https://img.shields.io/badge/DOI-10.1145%2F3592620-blue)
+
 # Global Manager: A serious game to help to be aware of the challenges of being a project manager on Global Software Development
 
 ## 👥 Contributors
