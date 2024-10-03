@@ -2,6 +2,8 @@
 
 # Global Manager: A serious game to help to be aware of the challenges of being a project manager on Global Software Development
 
+🔗 https://dl.acm.org/doi/10.1145/3592620
+
 ## 👥 Contributors
 
 * [Aurora Vizcaíno](mailto:aurora.vizcaino@uclm.es)
@@ -18,3 +20,19 @@ Project managers tend to confront multiple challenges in Global Software Develop
 ## 🔑 Keywords
 
 Global Software Development, Distributed Software Development, Project Management, Serious games
+
+## 📝 Citation 
+
+```
+@article{vizcaino2023global,
+  title={Global manager: a serious game to raise awareness of the challenges of being a project manager in global software development},
+  author={Vizca{\'\i}no, Aurora and Garc{\'\i}a, F{\'e}lix O and Men{\'e}ndez, V{\'\i}ctor Hugo and Manjavacas, Antonio and M{\'a}rquez, Rub{\'e}n and Molina, Marta},
+  journal={ACM Transactions on Computing Education},
+  volume={23},
+  number={2},
+  pages={1--31},
+  year={2023},
+  publisher={ACM New York, NY},
+  doi={10.1145/3592620}
+}
+```
